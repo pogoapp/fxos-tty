@@ -1,0 +1,13 @@
+{
+  "name": "FxOS Term",
+  "description": "HTML5 terminal w/ pty.js + socket.io backend",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Pogoapp",
+    "url": "http://www.pogoapp.com"
+  },
+  "default_locale": "en"
+}

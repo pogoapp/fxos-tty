@@ -1,0 +1,16 @@
+{
+  "name":    "fxos-tty",
+  "version": "0.0.1",
+
+  "dependencies": {
+    "coffee-script": "1.4.x",
+    "pty.js":        "",
+    "express":       "",
+    "socket.io":     ""
+  },
+
+  "engines": {
+    "node": "0.8.x",
+    "npm":  ">= 1.1.0"
+  }
+}
